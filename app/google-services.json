@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059483059385",
+    "project_id": "rk-movies-50f73",
+    "storage_bucket": "rk-movies-50f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059483059385:android:021ea96ee3787d9bb60768",
+        "android_client_info": {
+          "package_name": "com.example.rkmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059483059385-j627fin25am2c4rgaatglgltausud5oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCLmWc-Br77PD_7fIvOk0Rx19q5g093k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059483059385-j627fin25am2c4rgaatglgltausud5oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
